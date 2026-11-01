@@ -1,0 +1,6 @@
+{
+  "name": "Indigenous School AI Assistant",
+  "description": "24/7 Socratic academic tutor (PCM, CS, Humanities, Commerce) and administrative school guide for Grades 8–12, featuring in-RAM client-side Qwen LLM execution and verified school circular citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
